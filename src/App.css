@@ -1,0 +1,19 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    background-image: url("https://img.freepik.com/free-vector/worldwide-connection-gray-background-illustration-vector_53876-76827.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    font-weight: bold;
+    padding: 20px;
+    background-color: rgba(16, 16, 27, 0.32);
+}
